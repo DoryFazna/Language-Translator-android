@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MobileCourseWork2</string>
+
+    <string-array name="all_languages">
+        <item>Afrikaans,af</item>
+        <item>Albanian,sq</item>
+        <item>Arabic,ar</item>
+        <item>Armenian,hy</item>
+        <item>Azerbaijani,az</item>
+        <item>Bashkir,ba</item>
+        <item>Basque,eu</item>
+        <item>Belarusian,be</item>
+        <item>Bengali,bn</item>
+        <item>Bosnian,bs</item>
+        <item>Bulgarian,bg</item>
+        <item>Catalan,ca</item>
+        <item>Central Khmer,km</item>
+        <item>Chinese(Simplified),zh</item>
+        <item>Chinese(Traditional),zh-TW</item>
+        <item>Chuvash,cv</item>
+        <item>Croatian,hr</item>
+        <item>Czech,cs</item>
+        <item>Danish,da</item>
+        <item>Dutch,nl</item>
+        <item>English,en</item>
+        <item>Esperanto,eo</item>
+        <item>Estonian,et</item>
+        <item>Finnish,fi</item>
+        <item>French,fr</item>
+        <item>Georgian,ka</item>
+        <item>German,de</item>
+        <item>Greek,el</item>
+        <item>Gujarati,gu</item>
+        <item>Haitian,ht</item>
+        <item>Hebrew,he</item>
+        <item>Hindi,hi</item>
+        <item>Hungarian,hu</item>
+        <item>Icelandic,is</item>
+        <item>Indonesian,id</item>
+        <item>Irish,ga</item>
+        <item>Italian,it</item>
+        <item>Japanese,ja</item>
+        <item>Kazakh,kk</item>
+        <item>Kirghiz,ky</item>
+        <item>Korean,ko</item>
+        <item>Kurdish,ku</item>
+        <item>Latvian,lv</item>
+        <item>Lithuanian,lt</item>
+        <item>Malay,ms</item>
+        <item>Malayalam,ml</item>
+        <item>Maltese,mt</item>
+        <item>Mongolian,mn</item>
+        <item>Norwegian Bokmal,nb</item>
+        <item>Norwegian Nynorsk,nn</item>
+        <item>Panjabi,pa</item>
+        <item>Persian,fa</item>
+        <item>Polish,pl</item>
+        <item>Portuguese,pt</item>
+        <item>Pushto,ps</item>
+        <item>Romanian,ro</item>
+        <item>Russian,ru</item>
+        <item>Serbian,sr</item>
+        <item>Slovakian,sk</item>
+        <item>Slovenian,sl</item>
+        <item>Somali,so</item>
+        <item>Spanish,es</item>
+        <item>Swedish,sv</item>
+        <item>Tamil,ta</item>
+        <item>Telugu,te</item>
+        <item>Thai,th</item>
+        <item>Turkish,tr</item>
+        <item>Ukrainian,uk</item>
+        <item>Urdu,ur</item>
+        <item>Vietnamese,vi</item>
+    </string-array>
+
+    <string name="language_translator_apikey"></string>
+    <string name="language_translator_url"></string>
+    <string name="text_speech_apikey"></string>
+    <string name="text_speech_url"></string>
+</resources>
